@@ -1,0 +1,9 @@
+c:\users\mai.fathy\documents\visual studio 2010\Projects\EQSAutomation\EQSAutomation\bin\Debug\EQSAutomation.dll
+c:\users\mai.fathy\documents\visual studio 2010\Projects\EQSAutomation\EQSAutomation\bin\Debug\EQSAutomation.pdb
+c:\users\mai.fathy\documents\visual studio 2010\Projects\EQSAutomation\EQSAutomation\bin\Debug\WebDriver.dll
+c:\users\mai.fathy\documents\visual studio 2010\Projects\EQSAutomation\EQSAutomation\bin\Debug\WebDriver.Support.dll
+c:\users\mai.fathy\documents\visual studio 2010\Projects\EQSAutomation\EQSAutomation\bin\Debug\WebDriver.xml
+c:\users\mai.fathy\documents\visual studio 2010\Projects\EQSAutomation\EQSAutomation\bin\Debug\WebDriver.Support.xml
+c:\users\mai.fathy\documents\visual studio 2010\Projects\EQSAutomation\EQSAutomation\obj\Debug\EQSAutomation.csprojResolveAssemblyReference.cache
+c:\users\mai.fathy\documents\visual studio 2010\Projects\EQSAutomation\EQSAutomation\obj\Debug\EQSAutomation.dll
+c:\users\mai.fathy\documents\visual studio 2010\Projects\EQSAutomation\EQSAutomation\obj\Debug\EQSAutomation.pdb
